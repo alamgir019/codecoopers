@@ -3,3 +3,15 @@
 ################################################################################
 
 /SchoolManagement/.vs
+/SchoolManagement/Common/bin/Debug/netcoreapp2.0
+/SchoolManagement/Common/obj
+/SchoolManagement/Model/bin/Debug/netcoreapp2.0
+/SchoolManagement/Model/obj
+/SchoolManagement/RequestModel/bin/Debug/netcoreapp2.0
+/SchoolManagement/RequestModel/obj
+/SchoolManagement/SchoolManagement/bin/Debug/netcoreapp2.0
+/SchoolManagement/SchoolManagement/obj
+/SchoolManagement/Service/bin/Debug/netcoreapp2.0
+/SchoolManagement/Service/obj
+/SchoolManagement/ViewModel/bin/Debug/netcoreapp2.0
+/SchoolManagement/ViewModel/obj
